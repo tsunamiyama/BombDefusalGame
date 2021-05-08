@@ -1,5 +1,5 @@
 # Bomb Defusal Game
-Code for a bomb defusal game based off of Keep Talking and Nobody Explodes video game. The code for each game is stored as separate Atmel Studio project files. However, full game file is a combined C file. There is also a timer C file. Each main file was installed on a separate ATMEL 1284 microchip. Below is a link to a youtube video going into detail about the project. Included is a PDF file going into more depth on the technical level of the project as well as the game manual. 
+This repository contains the files for a bomb defusal game I created based on the video game "Keep Talking and Nobody Explodes". Each puzzle is stored as an Atmel Studio 7.0 project file, however, they are combined as the PuzzlesMain.c C file which was installed on an ATMEL 1284 microchip. The Timer.c file manages the game clock and sound effects and was installed on another separate ATMEL 1284 microchip. Also included is a written report going into detail about the project as well as the game manual. Below is a link to a video demonstration of the project as a whole.
 
 ## Explanation Video
 https://www.youtube.com/watch?v=d-BQtmofsFo
